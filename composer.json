@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            ":vendor\\:package_name\\": "src"
+            "DxsIoT\\RaspyPHP\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            ":vendor\\:package_name\\Test\\": "tests"
+            "DxsIoT\\RaspyPHP\\Test\\": "tests"
         }
     },
     "scripts": {
