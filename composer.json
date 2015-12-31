@@ -1,11 +1,12 @@
 {
-    "name": ":vendor/:package_name",
-    "description": ":package_description",
+    "name": "dxsiot/php-raspy",
+    "description": "PHP Raspberry GPIO",
     "keywords": [
-        ":vendor",
-        ":package_name"
+        "dxsiot",
+        "php",
+        "raspberry"
     ],
-    "homepage": "https://github.com/:vendor/:package_name",
+    "homepage": "https://github.com/DXSIoT/php-raspy",
     "license": "MIT",
     "authors": [
         {
